@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\bin\Debug\net8.0\Sem4_1Array.exe
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\bin\Debug\net8.0\Sem4_1Array.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\bin\Debug\net8.0\Sem4_1Array.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\bin\Debug\net8.0\Sem4_1Array.dll
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\bin\Debug\net8.0\Sem4_1Array.pdb
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.dll
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\refint\Sem4_1Array.dll
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.pdb
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\Sem4_1Array.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Sem4\Sem4_1Array\obj\Debug\net8.0\ref\Sem4_1Array.dll
